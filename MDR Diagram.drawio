@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.2" pages="2">
+  <diagram name="Page-1" id="ROYf0nvUOoBOldGx0WDo">
+    <mxGraphModel dx="1418" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VFdnznLDrriNA7bUisei-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VFdnznLDrriNA7bUisei-1" target="VFdnznLDrriNA7bUisei-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VFdnznLDrriNA7bUisei-1" value="MDR Employee" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" parent="1" vertex="1">
+          <mxGeometry x="69.5" y="100" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VFdnznLDrriNA7bUisei-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VFdnznLDrriNA7bUisei-2" target="VFdnznLDrriNA7bUisei-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VFdnznLDrriNA7bUisei-2" value="Clinic Staff" style="shape=mxgraph.signs.healthcare.medical_library;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="180.5" y="231" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VFdnznLDrriNA7bUisei-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VFdnznLDrriNA7bUisei-4" target="VFdnznLDrriNA7bUisei-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VFdnznLDrriNA7bUisei-4" value="&lt;div&gt;(if hardcopy)&amp;nbsp;&lt;/div&gt;- Scan MCU result then save it local&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(if softcopy)&lt;/div&gt;&lt;div&gt;- Save MCU result to local&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
+          <mxGeometry x="259.5" y="201" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VFdnznLDrriNA7bUisei-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VFdnznLDrriNA7bUisei-6" target="VFdnznLDrriNA7bUisei-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VFdnznLDrriNA7bUisei-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VFdnznLDrriNA7bUisei-6" target="VFdnznLDrriNA7bUisei-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VFdnznLDrriNA7bUisei-6" value="Update MCU result recording in SharePoint" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="1" vertex="1">
+          <mxGeometry x="411.22" y="201" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VFdnznLDrriNA7bUisei-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="VFdnznLDrriNA7bUisei-15" target="VFdnznLDrriNA7bUisei-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VFdnznLDrriNA7bUisei-15" value="Perform MCU&amp;nbsp;&lt;div&gt;at selected provider and send MCU result (hardcopy or softcopy via email)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="40" y="201" width="109" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="VFdnznLDrriNA7bUisei-18" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.conditional_access_sharepoint;fillColorStyles=fillColor2;fillColor2=#2171ba;" parent="1" vertex="1">
+          <mxGeometry x="446.86" y="203.5" width="38.72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VFdnznLDrriNA7bUisei-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VFdnznLDrriNA7bUisei-20" target="VFdnznLDrriNA7bUisei-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VFdnznLDrriNA7bUisei-20" value="Send notification for doctor&#39;s review automatically" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="1" vertex="1">
+          <mxGeometry x="559.5" y="201" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VFdnznLDrriNA7bUisei-22" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" parent="1" vertex="1">
+          <mxGeometry x="599.5" y="215" width="30" height="16.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VFdnznLDrriNA7bUisei-23" value="Send notification to active employee/admin after one year" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="1" vertex="1">
+          <mxGeometry x="559.5" y="340" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VFdnznLDrriNA7bUisei-24" value="Doctor to perform necessary review and follow up" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="1" vertex="1">
+          <mxGeometry x="700" y="201" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VFdnznLDrriNA7bUisei-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Coronavirus_-_Innovicons_Color-2960/call-doctor-coronavirus-smartphone-563.svg" parent="1" vertex="1">
+          <mxGeometry x="750" y="183" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VFdnznLDrriNA7bUisei-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
+          <mxGeometry x="390" y="180" width="430" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="VFdnznLDrriNA7bUisei-30" value="SHAREPOINT SYSTEM" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="380" y="150" width="430" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kiDOZ_ecxglOdccsnD-r" name="Page-2">
+    <mxGraphModel dx="1418" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="40Yp-uwRRsE_armADN4P-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="40Yp-uwRRsE_armADN4P-1" target="40Yp-uwRRsE_armADN4P-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="243.75" y="387" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40Yp-uwRRsE_armADN4P-1" value="Modified By Notification&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;inform username&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="40Yp-uwRRsE_armADN4P-5" value="R4217 SHAREPOINT WEEKYL REPORT DOCUMENT LIBRARY" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="40Yp-uwRRsE_armADN4P-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40Yp-uwRRsE_armADN4P-7" target="40Yp-uwRRsE_armADN4P-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="261.32500000000005" y="419.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40Yp-uwRRsE_armADN4P-7" value="Uploaded&amp;nbsp;&lt;div&gt;By Notification&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;inform username&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="40Yp-uwRRsE_armADN4P-15" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#070B3D;strokeColor=#793FFF;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.authenticated_user;" vertex="1" parent="1">
+          <mxGeometry x="180" y="381" width="78" height="78" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
